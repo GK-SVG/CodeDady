@@ -25,7 +25,7 @@ SECRET_KEY = '7&lp0l57n=zq3hs+^$a9g-!ri$)*gi&ib7=&je_-rj17k-9l67'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['codedady-list.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['codedady-list.herokuapp.com','127.0.0.1']
 
 
 # Application definition
